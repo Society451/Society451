@@ -6,3 +6,5 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Society451&show_icons=true&theme=gotham" alt="Society451" /> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Society451&layout=compact)
