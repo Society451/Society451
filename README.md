@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Society451&show_icons=true&theme=gotham" alt="Society451" />
+<img src="https://github-readme-stats.vercel.app/api?username=Society451&show_icons=true" alt="Society451" />
 
 </p>
 
