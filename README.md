@@ -5,6 +5,14 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Society451&show_icons=true&theme=gotham" alt="Society451" /> 
+<p align="center">
 
-<p align="center"> <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Society451&layout=compact) />
+<img src="https://github-readme-stats.vercel.app/api?username=Society451&show_icons=true&theme=gotham" alt="Society451" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Society451&layout=compact" alt="Top Languages" />
+
+</p>
