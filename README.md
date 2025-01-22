@@ -1,5 +1,5 @@
 - Stanford OHS, co2027
-- I like automation software of any kind
+- I like automation of any kind
 - My favorite language is Python, and I am learning C++, C, JS and HTML on the side
 - I am the lead maintainer and founder of the [Better Pronto Project](https://github.com/Better-Pronto), which aims to create a faster and more secure Python client for Stanford OHS's official chat platform
 
