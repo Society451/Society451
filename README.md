@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **C++, C and Rust**
 
-- 📫 How to reach me **paul257@ohs.stanford.edu**
+- 📫 How to reach me: **paul257@ohs.stanford.edu**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
