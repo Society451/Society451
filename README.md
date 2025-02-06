@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Society451</h1>
+<h1 align="center">Hi, I'm Society451</h1>
 <h3 align="center">Stanford Online High School, Class of 2027</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=society451&label=Profile%20views&color=0e75b6&style=flat" alt="society451" /> </p>
