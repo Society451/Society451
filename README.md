@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=society451" alt="society451" /></a> </p>
 
-- 🔭 I’m currently working on: [The Better Pronto Project](https://github.com/Better-Pronto)
+- 🔭 I’m currently working on: ~~[The Better Pronto Project](https://github.com/Better-Pronto)~~ [PROJECT ACTAEON]
 - 🌱 I’m currently learning: **C++ and C**
 - 📫 How to reach me: **paul257@ohs.stanford.edu**
 
