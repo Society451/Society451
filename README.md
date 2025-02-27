@@ -126,9 +126,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C1515,100:2e0101&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
-
-<style>
-  * {
-    font-family: 'JetBrains Mono', 'Courier New', monospace !important;
-  }
-</style>
