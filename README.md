@@ -3,7 +3,6 @@
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C1515,100:2e0101&height=200&section=header&text=Society451&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
   
-  <!-- Typing SVG with Stanford theme and terminal font -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=B83A4B&center=true&vCenter=true&random=false&width=800&lines=Stanford+Online+High+School%2C+Class+of+2027;Software+Engineer+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
