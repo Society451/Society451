@@ -5,7 +5,7 @@
   
   <!-- Typing SVG with dark theme and terminal font -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&random=false&width=800&lines=Stanford+Online+High+School%2C+Class+of+2027;Software+Engineer+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&random=false&width=800&lines=Stanford+Online+High+School%2C+Class+of+2027;Aspiring+Computer+Scientist%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
   
   <!-- Profile Views Counter -->
