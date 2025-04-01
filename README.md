@@ -3,13 +3,9 @@
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=200&section=header&text=Society451&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=C41E3A" width="100%"/>
   
-  <!-- Typing SVG with dark theme and terminal font -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&random=false&width=800&lines=Stanford+Online+High+School%2C+Class+of+2027;Aspiring+Computer+Scientist+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=society451&style=for-the-badge&color=C41E3A&label=PROFILE+VISITS" alt="profile views"/>
 
   <!-- Social Badges -->
   <div>
@@ -19,12 +15,7 @@
   </div>
   
   <br/>
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=society451&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6" width="100%" alt="Trophy" />
-</div>
 
-<!-- About Me Section with dark theme -->
 <div align="left">
   <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42" /> <span style="color:#C41E3A">About Me</span></h2>
   
